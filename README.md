@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub!  
 
-<!--
-**Hages/Hages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Craig – a **Blockchain & Front-End Developer** passionate about building sleek, high-performance applications, whether it's **Web3 dApps** or traditional **Web2 interfaces**.  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack  
+- **Frontend:** React, JavaScript, HTML, CSS, AngularJS
+- **Blockchain:** Solidity, Ethers.js, Web3.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring  
+- Next.js, TypeScript & TailwindCSS  
+- Rust for Blockchain Development  
+
+### 📫 Let's Connect!  
+- **LinkedIn:** [linkedin.com/in/craigohagan](https://linkedin.com/in/craigohagan)  
+- **X:** [x.com/Hages](https://x.com/Hages)  
+
+Let's build the decentralized future together! 🚀  
